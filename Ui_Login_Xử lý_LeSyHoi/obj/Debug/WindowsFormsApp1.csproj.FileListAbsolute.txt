@@ -1,0 +1,47 @@
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form2.resources
+C:\Users\admin\Desktop\QuanLySoTK\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\bin\Debug\WindowsFormsApp1.exe.config
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\bin\Debug\WindowsFormsApp1.exe
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\bin\Debug\WindowsFormsApp1.pdb
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\bin\Debug\FontAwesome.Sharp.dll
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\obj\Debug\WindowsFormsApp1.Form2.resources
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\obj\Debug\WindowsFormsApp1.Login.resources
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\obj\Debug\WindowsFormsApp1.exe
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\obj\Debug\WindowsFormsApp1.pdb
+D:\Năm 3\PM-HDT\QuanLySoTK\QuanLySoTK\QL_SoTietKiem\obj\Debug\WindowsFormsApp1.RJControls.RjTextBox.resources
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\bin\Debug\WindowsFormsApp1.exe.config
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\bin\Debug\WindowsFormsApp1.exe
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\bin\Debug\WindowsFormsApp1.pdb
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\bin\Debug\FontAwesome.Sharp.dll
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\obj\Debug\WindowsFormsApp1.ForgotPass.resources
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\obj\Debug\WindowsFormsApp1.Login.resources
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\obj\Debug\WindowsFormsApp1.RJControls.RjTextBox.resources
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\obj\Debug\WindowsFormsApp1.exe
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\obj\Debug\WindowsFormsApp1.pdb
+D:\QL_SoTietKiem-codeChucNang-TrieuVanKim\Ui_Login\obj\Debug\WindowsFormsApp1.csproj.SuggestedBindingRedirects.cache
