@@ -1,1 +1,1 @@
-# Qu-n-l-s-ti-t-ki-m
+# QLSTK
