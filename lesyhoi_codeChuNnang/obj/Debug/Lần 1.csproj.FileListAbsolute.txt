@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\bin\Debug\Lần 1.exe.config
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\bin\Debug\Lần 1.exe
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\bin\Debug\Lần 1.pdb
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\obj\Debug\Lần 1.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\obj\Debug\Lần 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\obj\Debug\Lần_1.Form1.resources
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\obj\Debug\Lần_1.Properties.Resources.resources
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\obj\Debug\Lần 1.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\obj\Debug\Lần 1.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\obj\Debug\Lần 1.exe
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\obj\Debug\Lần 1.pdb
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\obj\Debug\Lần_1.ChinhSuaLoaiTK.resources
+C:\Users\admin\Desktop\QuanLySoTK\Lần 1\obj\Debug\Lần_1.ThongTinChinhSach.resources
