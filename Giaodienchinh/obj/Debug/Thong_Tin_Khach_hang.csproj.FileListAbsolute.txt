@@ -1,0 +1,2 @@
+D:\QLSTK_Bcao\QL_SoTietKiem\Giaodienchinh\obj\Debug\Thong_Tin_Khach_hang.csproj.AssemblyReference.cache
+D:\QLSTK_Bcao\QL_SoTietKiem\Giaodienchinh\obj\Debug\Thong_Tin_Khach_hang.csproj.SuggestedBindingRedirects.cache
